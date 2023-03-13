@@ -1,0 +1,5588 @@
+{
+    "Bulbizarre": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 25
+    },
+    "Herbizarre": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 32
+    },
+    "Florizarre": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 42
+    },
+    "Méga-Florizarre": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 62
+    },
+    "Salamèche": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 22
+    },
+    "Reptincel": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 29
+    },
+    "Dracaufeu": {
+        "Type 1": "Feu",
+        "Type 2": "Vol",
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 39
+    },
+    "Méga-Dracaufeu X": {
+        "Type 1": "Feu",
+        "Type 2": "Dragon",
+        "HP": 78,
+        "Attack": 130,
+        "Defense": 56
+    },
+    "Méga-Dracaufeu Y": {
+        "Type 1": "Feu",
+        "Type 2": "Vol",
+        "HP": 78,
+        "Attack": 104,
+        "Defense": 39
+    },
+    "Carapuce": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 33
+    },
+    "Carabaffe": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 40
+    },
+    "Tortank": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 50
+    },
+    "Méga-Tortank": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 79,
+        "Attack": 103,
+        "Defense": 60
+    },
+    "Chenipan": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 18
+    },
+    "Chrysacier": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 28
+    },
+    "Papilusion": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 25
+    },
+    "Aspicot": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 15
+    },
+    "Coconfort": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 25
+    },
+    "Dardargnan": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 20
+    },
+    "Méga-Dardargnan": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 65,
+        "Attack": 150,
+        "Defense": 20
+    },
+    "Roucool": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 20
+    },
+    "Roucoups": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 28
+    },
+    "Roucarnage": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 38
+    },
+    "Méga-Roucarnage": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 40
+    },
+    "Rattata": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 18
+    },
+    "Rattatac": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 30
+    },
+    "Piafabec": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 15
+    },
+    "Rapasdepic": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 33
+    },
+    "Abo": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 22
+    },
+    "Arbok": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Pikachu": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 20
+    },
+    "Raichu": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 28
+    },
+    "Sabelette": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 43
+    },
+    "Sablaireau": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 55
+    },
+    "Nidoran femelle": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 26
+    },
+    "Nidorina": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 34
+    },
+    "Nidoqueen": {
+        "Type 1": "Poison",
+        "Type 2": "Sol",
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 44
+    },
+    "Nidoran male": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 20
+    },
+    "Nidorino": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 29
+    },
+    "Nidoking": {
+        "Type 1": "Poison",
+        "Type 2": "Sol",
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 39
+    },
+    "Mélofée": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 24
+    },
+    "Mélodelfe": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 37
+    },
+    "Goupix": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 20
+    },
+    "Feunard": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 38
+    },
+    "Rondoudou": {
+        "Type 1": "Normal",
+        "Type 2": "Fée",
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 10
+    },
+    "Grodoudou": {
+        "Type 1": "Normal",
+        "Type 2": "Fée",
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 23
+    },
+    "Nosferapti": {
+        "Type 1": "Poison",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 18
+    },
+    "Nosferalto": {
+        "Type 1": "Poison",
+        "Type 2": "Vol",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 35
+    },
+    "Mystherbe": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 28
+    },
+    "Ortide": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 35
+    },
+    "Rafflesia": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 43
+    },
+    "Paras": {
+        "Type 1": "Insecte",
+        "Type 2": "Plante",
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 28
+    },
+    "Parasect": {
+        "Type 1": "Insecte",
+        "Type 2": "Plante",
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 40
+    },
+    "Mimitoss": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 25
+    },
+    "Aéromite": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 30
+    },
+    "Taupiqueur": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 13
+    },
+    "Triopikeur": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 80,
+        "Defense": 25
+    },
+    "Miaouss": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 18
+    },
+    "Persian": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 30
+    },
+    "Psykokwak": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 24
+    },
+    "Akwakwak": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 39
+    },
+    "Férosinge": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 18
+    },
+    "Colossinge": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 30
+    },
+    "Caninos": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 23
+    },
+    "Arcanin": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 40
+    },
+    "Ptitard": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 20
+    },
+    "Tétarte": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 33
+    },
+    "Tartard": {
+        "Type 1": "Eau",
+        "Type 2": "Combat",
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 48
+    },
+    "Abra": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 8
+    },
+    "Kadabra": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 15
+    },
+    "Alakazam": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 23
+    },
+    "Méga-Alakazam": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 33
+    },
+    "Machoc": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 25
+    },
+    "Machopeur": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 35
+    },
+    "Mackogneur": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 40
+    },
+    "Chétiflor": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 18
+    },
+    "Boustiflor": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 25
+    },
+    "Empiflor": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 33
+    },
+    "Tentacool": {
+        "Type 1": "Eau",
+        "Type 2": "Poison",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 18
+    },
+    "Tentacruel": {
+        "Type 1": "Eau",
+        "Type 2": "Poison",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 33
+    },
+    "Racaillou": {
+        "Type 1": "Roche",
+        "Type 2": "Sol",
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 50
+    },
+    "Gravalanch": {
+        "Type 1": "Roche",
+        "Type 2": "Sol",
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 58
+    },
+    "Grolem": {
+        "Type 1": "Roche",
+        "Type 2": "Sol",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 65
+    },
+    "Ponyta": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 28
+    },
+    "Galopa": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 35
+    },
+    "Ramoloss": {
+        "Type 1": "Eau",
+        "Type 2": "Psy",
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 33
+    },
+    "Flagadoss": {
+        "Type 1": "Eau",
+        "Type 2": "Psy",
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 55
+    },
+    "Méga-Flagadoss": {
+        "Type 1": "Eau",
+        "Type 2": "Psy",
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 90
+    },
+    "Magnéti": {
+        "Type 1": "Electrik",
+        "Type 2": "Acier",
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 35
+    },
+    "Magnéton": {
+        "Type 1": "Electrik",
+        "Type 2": "Acier",
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 48
+    },
+    "Canarticho": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 28
+    },
+    "Doduo": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 23
+    },
+    "Dodrio": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 35
+    },
+    "Otaria": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 28
+    },
+    "Lamantine": {
+        "Type 1": "Eau",
+        "Type 2": "Glace",
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 40
+    },
+    "Tadmorv": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 25
+    },
+    "Grotadmorv": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 38
+    },
+    "Kokiyas": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 50
+    },
+    "Crustabri": {
+        "Type 1": "Eau",
+        "Type 2": "Glace",
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 90
+    },
+    "Fantominus": {
+        "Type 1": "Spectre",
+        "Type 2": "Poison",
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 15
+    },
+    "Spectrum": {
+        "Type 1": "Spectre",
+        "Type 2": "Poison",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 23
+    },
+    "Ectoplasma": {
+        "Type 1": "Spectre",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 30
+    },
+    "Méga-Ectoplasma": {
+        "Type 1": "Spectre",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 40
+    },
+    "Onix": {
+        "Type 1": "Roche",
+        "Type 2": "Sol",
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 80
+    },
+    "Soporifik": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 23
+    },
+    "Hypnomade": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 35
+    },
+    "Krabby": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 45
+    },
+    "Krabboss": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 58
+    },
+    "Voltorbe": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 25
+    },
+    "Electrode": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 35
+    },
+    "Noeunoeuf": {
+        "Type 1": "Plante",
+        "Type 2": "Psy",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 40
+    },
+    "Noadkoko": {
+        "Type 1": "Plante",
+        "Type 2": "Psy",
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 43
+    },
+    "Osselait": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 48
+    },
+    "Ossatueur": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 55
+    },
+    "Kicklee": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 27
+    },
+    "Tygnon": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 40
+    },
+    "Excelangue": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 38
+    },
+    "Smogo": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 48
+    },
+    "Smogogo": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 60
+    },
+    "Rhinocorne": {
+        "Type 1": "Sol",
+        "Type 2": "Roche",
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 48
+    },
+    "Rhinoféros": {
+        "Type 1": "Sol",
+        "Type 2": "Roche",
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 60
+    },
+    "Leveinard": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 3
+    },
+    "Saquedeneu": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 58
+    },
+    "Kangourex": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 40
+    },
+    "Méga-Kangourex": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 105,
+        "Attack": 125,
+        "Defense": 50
+    },
+    "Hypotrempe": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 35
+    },
+    "Hypocéan": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 48
+    },
+    "Poissiréne": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 30
+    },
+    "Poissoroy": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 33
+    },
+    "Stari": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 28
+    },
+    "Staross": {
+        "Type 1": "Eau",
+        "Type 2": "Psy",
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 43
+    },
+    "M. Mime": {
+        "Type 1": "Psy",
+        "Type 2": "Fée",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 33
+    },
+    "Insécateur": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 40
+    },
+    "Lippoutou": {
+        "Type 1": "Glace",
+        "Type 2": "Psy",
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 18
+    },
+    "Elektek": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 29
+    },
+    "Magmar": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 29
+    },
+    "Scarabrute": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 50
+    },
+    "Méga-Scarabrute": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 155,
+        "Defense": 60
+    },
+    "Tauros": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 48
+    },
+    "Magicarpe": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 28
+    },
+    "Léviator": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 40
+    },
+    "Méga-Léviator": {
+        "Type 1": "Eau",
+        "Type 2": "Ténèbres",
+        "HP": 95,
+        "Attack": 155,
+        "Defense": 55
+    },
+    "Lokhlass": {
+        "Type 1": "Eau",
+        "Type 2": "Glace",
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 40
+    },
+    "Métamorph": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 24
+    },
+    "Evoli": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 25
+    },
+    "Aquali": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 30
+    },
+    "Voltali": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 30
+    },
+    "Pyroli": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 30
+    },
+    "Porygon": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 35
+    },
+    "Amonita": {
+        "Type 1": "Roche",
+        "Type 2": "Eau",
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 50
+    },
+    "Amonistar": {
+        "Type 1": "Roche",
+        "Type 2": "Eau",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 63
+    },
+    "Kabuto": {
+        "Type 1": "Roche",
+        "Type 2": "Eau",
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 45
+    },
+    "Kabutops": {
+        "Type 1": "Roche",
+        "Type 2": "Eau",
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 53
+    },
+    "Ptéra": {
+        "Type 1": "Roche",
+        "Type 2": "Vol",
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 33
+    },
+    "Méga-Ptéra": {
+        "Type 1": "Roche",
+        "Type 2": "Vol",
+        "HP": 80,
+        "Attack": 135,
+        "Defense": 43
+    },
+    "Ronflex": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 33
+    },
+    "Artikodin": {
+        "Type 1": "Glace",
+        "Type 2": "Vol",
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 50
+    },
+    "Electhor": {
+        "Type 1": "Electrik",
+        "Type 2": "Vol",
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 43
+    },
+    "Sulfura": {
+        "Type 1": "Feu",
+        "Type 2": "Vol",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 45
+    },
+    "Minidraco": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 23
+    },
+    "Draco": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 33
+    },
+    "Dracolosse": {
+        "Type 1": "Dragon",
+        "Type 2": "Vol",
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 48
+    },
+    "Mewtwo": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 45
+    },
+    "Méga-Mewtwo X": {
+        "Type 1": "Psy",
+        "Type 2": "Combat",
+        "HP": 106,
+        "Attack": 190,
+        "Defense": 50
+    },
+    "Méga-Mewtwo Y": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 106,
+        "Attack": 150,
+        "Defense": 35
+    },
+    "Mew": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 50
+    },
+    "Germignon": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 33
+    },
+    "Macronium": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 40
+    },
+    "Méganium": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 50
+    },
+    "HérGlacendre": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 22
+    },
+    "Feurisson": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 29
+    },
+    "Typhlosion": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 39
+    },
+    "Kaiminus": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 32
+    },
+    "Crocrodil": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 40
+    },
+    "Aligatueur": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 50
+    },
+    "Fouinette": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 46,
+        "Defense": 17
+    },
+    "Fouinar": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 76,
+        "Defense": 32
+    },
+    "Hoothoot": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 30,
+        "Defense": 15
+    },
+    "Noarfang": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 25
+    },
+    "Coxy": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 20,
+        "Defense": 15
+    },
+    "Coxyclaque": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 35,
+        "Defense": 25
+    },
+    "Mimigal": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 20
+    },
+    "Migalos": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 35
+    },
+    "Nostenfer": {
+        "Type 1": "Poison",
+        "Type 2": "Vol",
+        "HP": 85,
+        "Attack": 90,
+        "Defense": 40
+    },
+    "Loupio": {
+        "Type 1": "Eau",
+        "Type 2": "Electrik",
+        "HP": 75,
+        "Attack": 38,
+        "Defense": 19
+    },
+    "Lanturn": {
+        "Type 1": "Eau",
+        "Type 2": "Electrik",
+        "HP": 125,
+        "Attack": 58,
+        "Defense": 29
+    },
+    "Pichu": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 8
+    },
+    "Mélo": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 25,
+        "Defense": 14
+    },
+    "Toudoudou": {
+        "Type 1": "Normal",
+        "Type 2": "Fée",
+        "HP": 90,
+        "Attack": 30,
+        "Defense": 8
+    },
+    "Togepi": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 20,
+        "Defense": 33
+    },
+    "Togetic": {
+        "Type 1": "Fée",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 43
+    },
+    "Natu": {
+        "Type 1": "Psy",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 23
+    },
+    "Xatu": {
+        "Type 1": "Psy",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 35
+    },
+    "Wattouat": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 20
+    },
+    "Lainergie": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 28
+    },
+    "Pharamp": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 43
+    },
+    "Méga-Pharamp": {
+        "Type 1": "Electrik",
+        "Type 2": "Dragon",
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 53
+    },
+    "Joliflor": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 48
+    },
+    "Marill": {
+        "Type 1": "Eau",
+        "Type 2": "Fée",
+        "HP": 70,
+        "Attack": 20,
+        "Defense": 25
+    },
+    "Azumarill": {
+        "Type 1": "Eau",
+        "Type 2": "Fée",
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 40
+    },
+    "Simularbre": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 58
+    },
+    "Tarpaud": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 38
+    },
+    "Granivol": {
+        "Type 1": "Plante",
+        "Type 2": "Vol",
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 20
+    },
+    "Floravol": {
+        "Type 1": "Plante",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 25
+    },
+    "Cotovol": {
+        "Type 1": "Plante",
+        "Type 2": "Vol",
+        "HP": 75,
+        "Attack": 55,
+        "Defense": 35
+    },
+    "Capumain": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 28
+    },
+    "Tournegrin": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 15
+    },
+    "Héliatronc": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 28
+    },
+    "Yanma": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 23
+    },
+    "Axoloto": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 23
+    },
+    "Maraiste": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 43
+    },
+    "Mentali": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 30
+    },
+    "Noctali": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 55
+    },
+    "Cornébre": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 21
+    },
+    "Roigada": {
+        "Type 1": "Eau",
+        "Type 2": "Psy",
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 40
+    },
+    "Feuforéve": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 30
+    },
+    "Zarbi": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 48,
+        "Attack": 72,
+        "Defense": 24
+    },
+    "Qulbutoké": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 190,
+        "Attack": 33,
+        "Defense": 29
+    },
+    "Girafarig": {
+        "Type 1": "Normal",
+        "Type 2": "Psy",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 33
+    },
+    "Pomdepik": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45
+    },
+    "Foretress": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 70
+    },
+    "Insolourdo": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 35
+    },
+    "Scorplane": {
+        "Type 1": "Sol",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 53
+    },
+    "Steelix": {
+        "Type 1": "Acier",
+        "Type 2": "Sol",
+        "HP": 75,
+        "Attack": 85,
+        "Defense": 100
+    },
+    "Méga-Acierix": {
+        "Type 1": "Acier",
+        "Type 2": "Sol",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 115
+    },
+    "Snubbull": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 25
+    },
+    "Granbull": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 38
+    },
+    "Qwilfish": {
+        "Type 1": "Eau",
+        "Type 2": "Poison",
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 38
+    },
+    "Cizayox": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 50
+    },
+    "Méga-Cizayox": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 70,
+        "Attack": 150,
+        "Defense": 70
+    },
+    "Caratroc": {
+        "Type 1": "Insecte",
+        "Type 2": "Roche",
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 115
+    },
+    "Scarhino": {
+        "Type 1": "Insecte",
+        "Type 2": "Combat",
+        "HP": 80,
+        "Attack": 125,
+        "Defense": 38
+    },
+    "Méga-Scarhino": {
+        "Type 1": "Insecte",
+        "Type 2": "Combat",
+        "HP": 80,
+        "Attack": 185,
+        "Defense": 58
+    },
+    "Farfuret": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Glace",
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 28
+    },
+    "Teddiursa": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 25
+    },
+    "Ursaring": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 38
+    },
+    "Limagma": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 20
+    },
+    "Volcaropod": {
+        "Type 1": "Feu",
+        "Type 2": "Roche",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 60
+    },
+    "Marcacrin": {
+        "Type 1": "Glace",
+        "Type 2": "Sol",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 20
+    },
+    "Cochignon": {
+        "Type 1": "Glace",
+        "Type 2": "Sol",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 40
+    },
+    "Corayon": {
+        "Type 1": "Eau",
+        "Type 2": "Roche",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 43
+    },
+    "Rémoraid": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 65,
+        "Defense": 18
+    },
+    "Octillery": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 105,
+        "Defense": 38
+    },
+    "Cadoizo": {
+        "Type 1": "Glace",
+        "Type 2": "Vol",
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 23
+    },
+    "Démanta": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 35
+    },
+    "Airmure": {
+        "Type 1": "Acier",
+        "Type 2": "Vol",
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 70
+    },
+    "Malosse": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Feu",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 15
+    },
+    "Démolosse": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Feu",
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 25
+    },
+    "Méga-Démolosse": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Feu",
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 45
+    },
+    "Hyporoi": {
+        "Type 1": "Eau",
+        "Type 2": "Dragon",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 48
+    },
+    "Phanpy": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 30
+    },
+    "Donphan": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 60
+    },
+    "Porygon2": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 45
+    },
+    "Cerfrousse": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 73,
+        "Attack": 95,
+        "Defense": 31
+    },
+    "Queulorior": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 20,
+        "Defense": 18
+    },
+    "DeInsecteant": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 18
+    },
+    "Kapoera": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 48
+    },
+    "Lippouti": {
+        "Type 1": "Glace",
+        "Type 2": "Psy",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 8
+    },
+    "Elekid": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 63,
+        "Defense": 19
+    },
+    "Magby": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 19
+    },
+    "Ecrémeuh": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 80,
+        "Defense": 53
+    },
+    "Leuphorie": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 255,
+        "Attack": 10,
+        "Defense": 5
+    },
+    "Raikou": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 38
+    },
+    "Entei": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 115,
+        "Attack": 115,
+        "Defense": 43
+    },
+    "Suicune": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 75,
+        "Defense": 58
+    },
+    "Embrylex": {
+        "Type 1": "Roche",
+        "Type 2": "Sol",
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 25
+    },
+    "Ymphect": {
+        "Type 1": "Roche",
+        "Type 2": "Sol",
+        "HP": 70,
+        "Attack": 84,
+        "Defense": 35
+    },
+    "Tyranocif": {
+        "Type 1": "Roche",
+        "Type 2": "Ténèbres",
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 55
+    },
+    "Méga-Tyranocif": {
+        "Type 1": "Roche",
+        "Type 2": "Ténèbres",
+        "HP": 100,
+        "Attack": 164,
+        "Defense": 75
+    },
+    "Lugia": {
+        "Type 1": "Psy",
+        "Type 2": "Vol",
+        "HP": 106,
+        "Attack": 90,
+        "Defense": 65
+    },
+    "Ho-Oh": {
+        "Type 1": "Feu",
+        "Type 2": "Vol",
+        "HP": 106,
+        "Attack": 130,
+        "Defense": 45
+    },
+    "Celebi": {
+        "Type 1": "Psy",
+        "Type 2": "Plante",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 50
+    },
+    "Arcko": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 18
+    },
+    "Massko": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 23
+    },
+    "Jungko": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 33
+    },
+    "Méga-Jungko": {
+        "Type 1": "Plante",
+        "Type 2": "Dragon",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 38
+    },
+    "Poussifeu": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 20
+    },
+    "Galifeu": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 30
+    },
+    "Braségali": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 35
+    },
+    "Méga-Braségali": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 80,
+        "Attack": 160,
+        "Defense": 40
+    },
+    "Gobou": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 25
+    },
+    "Flobio": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Laggron": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 100,
+        "Attack": 110,
+        "Defense": 45
+    },
+    "Méga-Laggron": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 55
+    },
+    "Medhyéna": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 18
+    },
+    "Grahyéna": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 35
+    },
+    "Zigzaton": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 21
+    },
+    "Linéon": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 78,
+        "Attack": 70,
+        "Defense": 31
+    },
+    "Chenipotte": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 18
+    },
+    "Armulys": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 28
+    },
+    "Charmillon": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 25
+    },
+    "Blindalys": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 28
+    },
+    "Papinox": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 35
+    },
+    "Nénupiot": {
+        "Type 1": "Eau",
+        "Type 2": "Plante",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 15
+    },
+    "Lombre": {
+        "Type 1": "Eau",
+        "Type 2": "Plante",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 25
+    },
+    "Ludicolo": {
+        "Type 1": "Eau",
+        "Type 2": "Plante",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 35
+    },
+    "Grainipiot": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 25
+    },
+    "Pifeuil": {
+        "Type 1": "Plante",
+        "Type 2": "Ténèbres",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 20
+    },
+    "TengalGlace": {
+        "Type 1": "Plante",
+        "Type 2": "Ténèbres",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 30
+    },
+    "Nirondelle": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 15
+    },
+    "Hélédelle": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 30
+    },
+    "Goélise": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 15
+    },
+    "Bekipan": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 50
+    },
+    "Tarsal": {
+        "Type 1": "Psy",
+        "Type 2": "Fée",
+        "HP": 28,
+        "Attack": 25,
+        "Defense": 13
+    },
+    "Kirlia": {
+        "Type 1": "Psy",
+        "Type 2": "Fée",
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 18
+    },
+    "Gardevoir": {
+        "Type 1": "Psy",
+        "Type 2": "Fée",
+        "HP": 68,
+        "Attack": 65,
+        "Defense": 33
+    },
+    "Méga-Gardevoir": {
+        "Type 1": "Psy",
+        "Type 2": "Fée",
+        "HP": 68,
+        "Attack": 85,
+        "Defense": 33
+    },
+    "Arakdo": {
+        "Type 1": "Insecte",
+        "Type 2": "Eau",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 16
+    },
+    "Maskadra": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 31
+    },
+    "Balignon": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 30
+    },
+    "Chapignon": {
+        "Type 1": "Plante",
+        "Type 2": "Combat",
+        "HP": 60,
+        "Attack": 130,
+        "Defense": 40
+    },
+    "Parecool": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 30
+    },
+    "Vigoroth": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 40
+    },
+    "Monaflémit": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 150,
+        "Attack": 160,
+        "Defense": 50
+    },
+    "Ningale": {
+        "Type 1": "Insecte",
+        "Type 2": "Sol",
+        "HP": 31,
+        "Attack": 45,
+        "Defense": 45
+    },
+    "Ninjask": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 61,
+        "Attack": 90,
+        "Defense": 23
+    },
+    "Munja": {
+        "Type 1": "Insecte",
+        "Type 2": "Spectre",
+        "HP": 1,
+        "Attack": 90,
+        "Defense": 23
+    },
+    "Chuchmur": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 64,
+        "Attack": 51,
+        "Defense": 12
+    },
+    "Ramboum": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 84,
+        "Attack": 71,
+        "Defense": 22
+    },
+    "Brouhabam": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 104,
+        "Attack": 91,
+        "Defense": 32
+    },
+    "Makuhita": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 72,
+        "Attack": 60,
+        "Defense": 15
+    },
+    "Hariyama": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 144,
+        "Attack": 120,
+        "Defense": 30
+    },
+    "Azurill": {
+        "Type 1": "Normal",
+        "Type 2": "Fée",
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 20
+    },
+    "Tarinor": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 68
+    },
+    "Skitty": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 23
+    },
+    "Delcatty": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 33
+    },
+    "Ténéfix": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Spectre",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 38
+    },
+    "Méga-Ténéfix": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Spectre",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 63
+    },
+    "Mysdibule": {
+        "Type 1": "Acier",
+        "Type 2": "Fée",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 43
+    },
+    "Méga-Mysdibule": {
+        "Type 1": "Acier",
+        "Type 2": "Fée",
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 63
+    },
+    "Galekid": {
+        "Type 1": "Acier",
+        "Type 2": "Roche",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50
+    },
+    "Galegon": {
+        "Type 1": "Acier",
+        "Type 2": "Roche",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 70
+    },
+    "Galeking": {
+        "Type 1": "Acier",
+        "Type 2": "Roche",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 90
+    },
+    "Méga-Galeking": {
+        "Type 1": "Acier",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 140,
+        "Defense": 115
+    },
+    "Méditikka": {
+        "Type 1": "Combat",
+        "Type 2": "Psy",
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 28
+    },
+    "Charmina": {
+        "Type 1": "Combat",
+        "Type 2": "Psy",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 38
+    },
+    "Méga-Charmina": {
+        "Type 1": "Combat",
+        "Type 2": "Psy",
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 43
+    },
+    "Dynavolt": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 20
+    },
+    "Elecsprint": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 30
+    },
+    "Méga-Elecsprint": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 40
+    },
+    "Posipi": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 20
+    },
+    "Négapi": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 25
+    },
+    "Muciole": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 73,
+        "Defense": 28
+    },
+    "Lumivole": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 47,
+        "Defense": 28
+    },
+    "Rosélia": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 23
+    },
+    "Gloupti": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 43,
+        "Defense": 27
+    },
+    "Avaltout": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 73,
+        "Defense": 42
+    },
+    "Carvanha": {
+        "Type 1": "Eau",
+        "Type 2": "Ténèbres",
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 10
+    },
+    "Sharpedo": {
+        "Type 1": "Eau",
+        "Type 2": "Ténèbres",
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 20
+    },
+    "Méga-Sharpedo": {
+        "Type 1": "Eau",
+        "Type 2": "Ténèbres",
+        "HP": 70,
+        "Attack": 140,
+        "Defense": 35
+    },
+    "Wailmer": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 130,
+        "Attack": 70,
+        "Defense": 18
+    },
+    "Wailord": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 170,
+        "Attack": 90,
+        "Defense": 23
+    },
+    "Chamallot": {
+        "Type 1": "Feu",
+        "Type 2": "Sol",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 20
+    },
+    "Camérupt": {
+        "Type 1": "Feu",
+        "Type 2": "Sol",
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 35
+    },
+    "Méga-Camérupt": {
+        "Type 1": "Feu",
+        "Type 2": "Sol",
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 50
+    },
+    "Chartor": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70
+    },
+    "Spoink": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 25,
+        "Defense": 18
+    },
+    "Groret": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 45,
+        "Defense": 33
+    },
+    "Spinda": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 30
+    },
+    "Kraknoix": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 23
+    },
+    "Vibraninf": {
+        "Type 1": "Sol",
+        "Type 2": "Dragon",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 25
+    },
+    "Libégon": {
+        "Type 1": "Sol",
+        "Type 2": "Dragon",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 40
+    },
+    "Cacnea": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 20
+    },
+    "Cacturne": {
+        "Type 1": "Plante",
+        "Type 2": "Ténèbres",
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 30
+    },
+    "Tylton": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 30
+    },
+    "Altaria": {
+        "Type 1": "Dragon",
+        "Type 2": "Vol",
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 45
+    },
+    "Méga-Altaria": {
+        "Type 1": "Dragon",
+        "Type 2": "Fée",
+        "HP": 75,
+        "Attack": 110,
+        "Defense": 55
+    },
+    "Mangriff": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 73,
+        "Attack": 115,
+        "Defense": 30
+    },
+    "Séviper": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 73,
+        "Attack": 100,
+        "Defense": 30
+    },
+    "Séléroc": {
+        "Type 1": "Roche",
+        "Type 2": "Psy",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 33
+    },
+    "Solaroc": {
+        "Type 1": "Roche",
+        "Type 2": "Psy",
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 43
+    },
+    "Barloche": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 50,
+        "Attack": 48,
+        "Defense": 22
+    },
+    "Barbicha": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 110,
+        "Attack": 78,
+        "Defense": 37
+    },
+    "Ecrapince": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 43,
+        "Attack": 80,
+        "Defense": 33
+    },
+    "Colhomard": {
+        "Type 1": "Eau",
+        "Type 2": "Ténèbres",
+        "HP": 63,
+        "Attack": 120,
+        "Defense": 43
+    },
+    "Balbuto": {
+        "Type 1": "Sol",
+        "Type 2": "Psy",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 28
+    },
+    "Kaorine": {
+        "Type 1": "Sol",
+        "Type 2": "Psy",
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 53
+    },
+    "Lilia": {
+        "Type 1": "Roche",
+        "Type 2": "Plante",
+        "HP": 66,
+        "Attack": 41,
+        "Defense": 39
+    },
+    "Vacilys": {
+        "Type 1": "Roche",
+        "Type 2": "Plante",
+        "HP": 86,
+        "Attack": 81,
+        "Defense": 49
+    },
+    "Anorith": {
+        "Type 1": "Roche",
+        "Type 2": "Insecte",
+        "HP": 45,
+        "Attack": 95,
+        "Defense": 25
+    },
+    "Armaldo": {
+        "Type 1": "Roche",
+        "Type 2": "Insecte",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 50
+    },
+    "Barpau": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 20,
+        "Attack": 15,
+        "Defense": 10
+    },
+    "Milobellus": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 60,
+        "Defense": 40
+    },
+    "Morphéo": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 35
+    },
+    "Kecleon": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 35
+    },
+    "Polichombr": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 44,
+        "Attack": 75,
+        "Defense": 18
+    },
+    "Branette": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 64,
+        "Attack": 115,
+        "Defense": 33
+    },
+    "Méga-Branette": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 64,
+        "Attack": 165,
+        "Defense": 38
+    },
+    "Skelénox": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 45
+    },
+    "Téraclope": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 65
+    },
+    "Tropius": {
+        "Type 1": "Plante",
+        "Type 2": "Vol",
+        "HP": 99,
+        "Attack": 68,
+        "Defense": 42
+    },
+    "Eoko": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35
+    },
+    "Absol": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 30
+    },
+    "Méga-Absol": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 150,
+        "Defense": 30
+    },
+    "Okéoké": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 23,
+        "Defense": 24
+    },
+    "Stalgamin": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 25
+    },
+    "Oniglali": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 40
+    },
+    "Méga-Oniglali": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 40
+    },
+    "Obalie": {
+        "Type 1": "Glace",
+        "Type 2": "Eau",
+        "HP": 70,
+        "Attack": 40,
+        "Defense": 25
+    },
+    "Phogleur": {
+        "Type 1": "Glace",
+        "Type 2": "Eau",
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 35
+    },
+    "Kaimorse": {
+        "Type 1": "Glace",
+        "Type 2": "Eau",
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 45
+    },
+    "Coquiperl": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 64,
+        "Defense": 43
+    },
+    "Serpang": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 104,
+        "Defense": 53
+    },
+    "Rosabyss": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 84,
+        "Defense": 53
+    },
+    "Relicanth": {
+        "Type 1": "Eau",
+        "Type 2": "Roche",
+        "HP": 100,
+        "Attack": 90,
+        "Defense": 65
+    },
+    "Lovdisc": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 43,
+        "Attack": 30,
+        "Defense": 28
+    },
+    "Draby": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 30
+    },
+    "Drackhaus": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 50
+    },
+    "Drattak": {
+        "Type 1": "Dragon",
+        "Type 2": "Vol",
+        "HP": 95,
+        "Attack": 135,
+        "Defense": 40
+    },
+    "Méga-Drattak": {
+        "Type 1": "Dragon",
+        "Type 2": "Vol",
+        "HP": 95,
+        "Attack": 145,
+        "Defense": 65
+    },
+    "Terhal": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 40
+    },
+    "Métang": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 50
+    },
+    "Métalosse": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 80,
+        "Attack": 135,
+        "Defense": 65
+    },
+    "Méga-Métalosse": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 80,
+        "Attack": 145,
+        "Defense": 75
+    },
+    "RegiRoche": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 100
+    },
+    "RegGlace": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 50,
+        "Defense": 50
+    },
+    "RegiAcier": {
+        "Type 1": "Acier",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 75,
+        "Defense": 75
+    },
+    "Latias": {
+        "Type 1": "Dragon",
+        "Type 2": "Psy",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 45
+    },
+    "Méga-Latias": {
+        "Type 1": "Dragon",
+        "Type 2": "Psy",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 60
+    },
+    "Latios": {
+        "Type 1": "Dragon",
+        "Type 2": "Psy",
+        "HP": 80,
+        "Attack": 90,
+        "Defense": 40
+    },
+    "Méga-Latios": {
+        "Type 1": "Dragon",
+        "Type 2": "Psy",
+        "HP": 80,
+        "Attack": 130,
+        "Defense": 50
+    },
+    "Kyogre": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 45
+    },
+    "Primo-Kyogre": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 45
+    },
+    "Groudon": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 70
+    },
+    "Primo-Groudon": {
+        "Type 1": "Sol",
+        "Type 2": "Feu",
+        "HP": 100,
+        "Attack": 180,
+        "Defense": 80
+    },
+    "Rayquaza": {
+        "Type 1": "Dragon",
+        "Type 2": "Vol",
+        "HP": 105,
+        "Attack": 150,
+        "Defense": 45
+    },
+    "Méga-Rayquaza": {
+        "Type 1": "Dragon",
+        "Type 2": "Vol",
+        "HP": 105,
+        "Attack": 180,
+        "Defense": 50
+    },
+    "Jirachi": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 50
+    },
+    "Deoxys (Forme de Base)": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 150,
+        "Defense": 25
+    },
+    "Deoxys (Forme Attaque)": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 180,
+        "Defense": 10
+    },
+    "Deoxys (Forme Défense)": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 80
+    },
+    "Deoxys (Forme Vitesse)": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 45
+    },
+    "Tortipouss": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 68,
+        "Defense": 32
+    },
+    "Boskara": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 89,
+        "Defense": 43
+    },
+    "Torterra": {
+        "Type 1": "Plante",
+        "Type 2": "Sol",
+        "HP": 95,
+        "Attack": 109,
+        "Defense": 53
+    },
+    "Ouisticram": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 44,
+        "Attack": 58,
+        "Defense": 22
+    },
+    "Chimpenfeu": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 64,
+        "Attack": 78,
+        "Defense": 26
+    },
+    "Simiabraz": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 76,
+        "Attack": 104,
+        "Defense": 36
+    },
+    "Tiplouf": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 53,
+        "Attack": 51,
+        "Defense": 27
+    },
+    "Prinplouf": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 64,
+        "Attack": 66,
+        "Defense": 34
+    },
+    "Pingoléon": {
+        "Type 1": "Eau",
+        "Type 2": "Acier",
+        "HP": 84,
+        "Attack": 86,
+        "Defense": 44
+    },
+    "Etourmi": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 15
+    },
+    "Etourvol": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 25
+    },
+    "Etouraptor": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 35
+    },
+    "Keunotor": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 20
+    },
+    "Castorno": {
+        "Type 1": "Normal",
+        "Type 2": "Eau",
+        "HP": 79,
+        "Attack": 85,
+        "Defense": 30
+    },
+    "Crikzik": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 37,
+        "Attack": 25,
+        "Defense": 21
+    },
+    "Mélokrik": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 77,
+        "Attack": 85,
+        "Defense": 26
+    },
+    "Lixy": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 17
+    },
+    "Luxio": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 25
+    },
+    "Luxray": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 40
+    },
+    "Rozbouton": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 18
+    },
+    "Roserade": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 33
+    },
+    "Kranidos": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 67,
+        "Attack": 125,
+        "Defense": 20
+    },
+    "Charkos": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 97,
+        "Attack": 165,
+        "Defense": 30
+    },
+    "Dinoclier": {
+        "Type 1": "Roche",
+        "Type 2": "Acier",
+        "HP": 30,
+        "Attack": 42,
+        "Defense": 59
+    },
+    "Bastiodon": {
+        "Type 1": "Roche",
+        "Type 2": "Acier",
+        "HP": 60,
+        "Attack": 52,
+        "Defense": 84
+    },
+    "Cheniti": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 29,
+        "Defense": 23
+    },
+    "Cheniselle (Cape Plante)": {
+        "Type 1": "Insecte",
+        "Type 2": "Plante",
+        "HP": 60,
+        "Attack": 59,
+        "Defense": 43
+    },
+    "Cheniselle (Cape Sol)": {
+        "Type 1": "Insecte",
+        "Type 2": "Sol",
+        "HP": 60,
+        "Attack": 79,
+        "Defense": 53
+    },
+    "Cheniselle (Cape Déchet)": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 60,
+        "Attack": 69,
+        "Defense": 48
+    },
+    "Papilord": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 70,
+        "Attack": 94,
+        "Defense": 25
+    },
+    "Apitrini": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 21
+    },
+    "Apireine": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 51
+    },
+    "Pachirisu": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 35
+    },
+    "Mustébouée": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 18
+    },
+    "Mustéflott": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 28
+    },
+    "Ceribou": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 23
+    },
+    "Ceriflor": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 35
+    },
+    "Sancoki": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 76,
+        "Attack": 48,
+        "Defense": 24
+    },
+    "Tritosor": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 111,
+        "Attack": 83,
+        "Defense": 34
+    },
+    "Capidextre": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 33
+    },
+    "Baudrive": {
+        "Type 1": "Spectre",
+        "Type 2": "Vol",
+        "HP": 90,
+        "Attack": 50,
+        "Defense": 17
+    },
+    "Grodrive": {
+        "Type 1": "Spectre",
+        "Type 2": "Vol",
+        "HP": 150,
+        "Attack": 80,
+        "Defense": 22
+    },
+    "Laporeille": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 66,
+        "Defense": 22
+    },
+    "Lockpin": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 76,
+        "Defense": 42
+    },
+    "Méga-Lockpin": {
+        "Type 1": "Normal",
+        "Type 2": "Combat",
+        "HP": 65,
+        "Attack": 136,
+        "Defense": 47
+    },
+    "Magiréve": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 30
+    },
+    "Corboss": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Vol",
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 26
+    },
+    "Chaglam": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 49,
+        "Attack": 55,
+        "Defense": 21
+    },
+    "Chaffreux": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 71,
+        "Attack": 82,
+        "Defense": 32
+    },
+    "Korillon": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 25
+    },
+    "Moufouette": {
+        "Type 1": "Poison",
+        "Type 2": "Ténèbres",
+        "HP": 63,
+        "Attack": 63,
+        "Defense": 24
+    },
+    "Moufflair": {
+        "Type 1": "Poison",
+        "Type 2": "Ténèbres",
+        "HP": 103,
+        "Attack": 93,
+        "Defense": 34
+    },
+    "Archéomire": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 57,
+        "Attack": 24,
+        "Defense": 43
+    },
+    "Archéodong": {
+        "Type 1": "Acier",
+        "Type 2": "Psy",
+        "HP": 67,
+        "Attack": 89,
+        "Defense": 58
+    },
+    "Manzaé": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 80,
+        "Defense": 48
+    },
+    "Mime Jr.": {
+        "Type 1": "Psy",
+        "Type 2": "Fée",
+        "HP": 20,
+        "Attack": 25,
+        "Defense": 23
+    },
+    "Ptiravi": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 5,
+        "Defense": 3
+    },
+    "Pijako": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 76,
+        "Attack": 65,
+        "Defense": 23
+    },
+    "Spiritomb": {
+        "Type 1": "Spectre",
+        "Type 2": "Ténèbres",
+        "HP": 50,
+        "Attack": 92,
+        "Defense": 54
+    },
+    "Griknot": {
+        "Type 1": "Dragon",
+        "Type 2": "Sol",
+        "HP": 58,
+        "Attack": 70,
+        "Defense": 23
+    },
+    "Carmache": {
+        "Type 1": "Dragon",
+        "Type 2": "Sol",
+        "HP": 68,
+        "Attack": 90,
+        "Defense": 33
+    },
+    "Carchacrok": {
+        "Type 1": "Dragon",
+        "Type 2": "Sol",
+        "HP": 108,
+        "Attack": 130,
+        "Defense": 48
+    },
+    "Méga-Carchacrok": {
+        "Type 1": "Dragon",
+        "Type 2": "Sol",
+        "HP": 108,
+        "Attack": 170,
+        "Defense": 58
+    },
+    "Goinfrex": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 135,
+        "Attack": 85,
+        "Defense": 20
+    },
+    "Riolu": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 20
+    },
+    "Lucario": {
+        "Type 1": "Combat",
+        "Type 2": "Acier",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 35
+    },
+    "Méga-Lucario": {
+        "Type 1": "Combat",
+        "Type 2": "Acier",
+        "HP": 70,
+        "Attack": 145,
+        "Defense": 44
+    },
+    "Hippopotas": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 68,
+        "Attack": 72,
+        "Defense": 39
+    },
+    "Hippodocus": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 108,
+        "Attack": 112,
+        "Defense": 59
+    },
+    "Rapion": {
+        "Type 1": "Poison",
+        "Type 2": "Insecte",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 45
+    },
+    "Drascore": {
+        "Type 1": "Poison",
+        "Type 2": "Ténèbres",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 55
+    },
+    "Cradopaud": {
+        "Type 1": "Poison",
+        "Type 2": "Combat",
+        "HP": 48,
+        "Attack": 61,
+        "Defense": 20
+    },
+    "Coatox": {
+        "Type 1": "Poison",
+        "Type 2": "Combat",
+        "HP": 83,
+        "Attack": 106,
+        "Defense": 33
+    },
+    "Vortente": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 74,
+        "Attack": 100,
+        "Defense": 36
+    },
+    "Ecayon": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 49,
+        "Attack": 49,
+        "Defense": 28
+    },
+    "Luminéon": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 69,
+        "Attack": 69,
+        "Defense": 38
+    },
+    "Babimanta": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 25
+    },
+    "Blizzi": {
+        "Type 1": "Plante",
+        "Type 2": "Glace",
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 25
+    },
+    "Blizzaroi": {
+        "Type 1": "Plante",
+        "Type 2": "Glace",
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 38
+    },
+    "Méga-Blizzaroi": {
+        "Type 1": "Plante",
+        "Type 2": "Glace",
+        "HP": 90,
+        "Attack": 132,
+        "Defense": 53
+    },
+    "Dimoret": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Glace",
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 33
+    },
+    "Magnézone": {
+        "Type 1": "Electrik",
+        "Type 2": "Acier",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 58
+    },
+    "Coudlangue": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 48
+    },
+    "Rhinastoc": {
+        "Type 1": "Sol",
+        "Type 2": "Roche",
+        "HP": 115,
+        "Attack": 140,
+        "Defense": 65
+    },
+    "Bouldeneu": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 63
+    },
+    "Elekable": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 123,
+        "Defense": 34
+    },
+    "Maganon": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 34
+    },
+    "Togekiss": {
+        "Type 1": "Fée",
+        "Type 2": "Vol",
+        "HP": 85,
+        "Attack": 50,
+        "Defense": 48
+    },
+    "Yanmega": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 86,
+        "Attack": 76,
+        "Defense": 43
+    },
+    "Phyllali": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 110,
+        "Defense": 65
+    },
+    "Givrali": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 55
+    },
+    "Scorvol": {
+        "Type 1": "Sol",
+        "Type 2": "Vol",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 63
+    },
+    "Mammochon": {
+        "Type 1": "Glace",
+        "Type 2": "Sol",
+        "HP": 110,
+        "Attack": 130,
+        "Defense": 40
+    },
+    "Porygon-Z": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 35
+    },
+    "Gallame": {
+        "Type 1": "Psy",
+        "Type 2": "Combat",
+        "HP": 68,
+        "Attack": 125,
+        "Defense": 33
+    },
+    "Méga-Gallame": {
+        "Type 1": "Psy",
+        "Type 2": "Combat",
+        "HP": 68,
+        "Attack": 165,
+        "Defense": 48
+    },
+    "Tarinorme": {
+        "Type 1": "Roche",
+        "Type 2": "Acier",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 73
+    },
+    "Noctunoir": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 68
+    },
+    "Momartik": {
+        "Type 1": "Glace",
+        "Type 2": "Spectre",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 35
+    },
+    "Motisma (Forme Normale)": {
+        "Type 1": "Electrik",
+        "Type 2": "Spectre",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 39
+    },
+    "Motisma (Forme Chaleur)": {
+        "Type 1": "Electrik",
+        "Type 2": "Feu",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 54
+    },
+    "Motisma (Forme Lavage)": {
+        "Type 1": "Electrik",
+        "Type 2": "Eau",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 54
+    },
+    "Motisma (Forme Froid)": {
+        "Type 1": "Electrik",
+        "Type 2": "Glace",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 54
+    },
+    "Motisma (Forme Tonte)": {
+        "Type 1": "Electrik",
+        "Type 2": "Vol",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 54
+    },
+    "Motisma (Forme HélGlace)": {
+        "Type 1": "Electrik",
+        "Type 2": "Plante",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 54
+    },
+    "Créhelf": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 65
+    },
+    "Créfollet": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 53
+    },
+    "Créfadet": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 35
+    },
+    "Dialga": {
+        "Type 1": "Acier",
+        "Type 2": "Dragon",
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 60
+    },
+    "Palkia": {
+        "Type 1": "Eau",
+        "Type 2": "Dragon",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 50
+    },
+    "Heatran": {
+        "Type 1": "Feu",
+        "Type 2": "Acier",
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 53
+    },
+    "Regigigas": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 110,
+        "Attack": 160,
+        "Defense": 55
+    },
+    "Giratina (Forme Alternative)": {
+        "Type 1": "Spectre",
+        "Type 2": "Dragon",
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 60
+    },
+    "Giratina (Forme Originelle)": {
+        "Type 1": "Spectre",
+        "Type 2": "Dragon",
+        "HP": 150,
+        "Attack": 120,
+        "Defense": 50
+    },
+    "Cresselia": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 120,
+        "Attack": 70,
+        "Defense": 60
+    },
+    "Phione": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 40
+    },
+    "Manaphy": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 50
+    },
+    "Darkrai": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 45
+    },
+    "Shaymin (Forme Terrestre)": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 50
+    },
+    "Shaymin (Forme Céleste)": {
+        "Type 1": "Plante",
+        "Type 2": "Vol",
+        "HP": 100,
+        "Attack": 103,
+        "Defense": 38
+    },
+    "Arceus": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 120,
+        "Attack": 120,
+        "Defense": 60
+    },
+    "Victini": {
+        "Type 1": "Psy",
+        "Type 2": "Feu",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 50
+    },
+    "Vipélierre": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 28
+    },
+    "Lianaja": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 38
+    },
+    "Majaspic": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 48
+    },
+    "Gruikui": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 63,
+        "Defense": 23
+    },
+    "Grotichon": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 90,
+        "Attack": 93,
+        "Defense": 28
+    },
+    "Roitiflam": {
+        "Type 1": "Feu",
+        "Type 2": "Combat",
+        "HP": 110,
+        "Attack": 123,
+        "Defense": 33
+    },
+    "Moustillon": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 23
+    },
+    "Mateloutre": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 30
+    },
+    "Clamiral": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 100,
+        "Defense": 43
+    },
+    "Ratentif": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 20
+    },
+    "Miradar": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Ponchiot": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 23
+    },
+    "Ponchien": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 33
+    },
+    "Mastouffe": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 110,
+        "Defense": 45
+    },
+    "Chacripan": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 41,
+        "Attack": 50,
+        "Defense": 19
+    },
+    "Léopardus": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 64,
+        "Attack": 88,
+        "Defense": 25
+    },
+    "Feuillajou": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 24
+    },
+    "Feuiloutan": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 32
+    },
+    "Flamajou": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 24
+    },
+    "Flamoutan": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 32
+    },
+    "Flotajou": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 24
+    },
+    "Flotoutan": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 32
+    },
+    "Munna": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 76,
+        "Attack": 25,
+        "Defense": 23
+    },
+    "Mushana": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 116,
+        "Attack": 55,
+        "Defense": 43
+    },
+    "Poichigeon": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 50,
+        "Attack": 55,
+        "Defense": 25
+    },
+    "Colombeau": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 62,
+        "Attack": 77,
+        "Defense": 31
+    },
+    "Déflaisan": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 80,
+        "Attack": 115,
+        "Defense": 40
+    },
+    "Zébibron": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 16
+    },
+    "Zéblitz": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 32
+    },
+    "Nodulithe": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 43
+    },
+    "Géolithe": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 53
+    },
+    "Gigalithe": {
+        "Type 1": "Roche",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 65
+    },
+    "Chovsourir": {
+        "Type 1": "Psy",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 22
+    },
+    "Rhinolove": {
+        "Type 1": "Psy",
+        "Type 2": "Vol",
+        "HP": 67,
+        "Attack": 57,
+        "Defense": 28
+    },
+    "Rototaupe": {
+        "Type 1": "Sol",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 20
+    },
+    "Minotaupe": {
+        "Type 1": "Sol",
+        "Type 2": "Acier",
+        "HP": 110,
+        "Attack": 135,
+        "Defense": 30
+    },
+    "Nanméouée": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 103,
+        "Attack": 60,
+        "Defense": 43
+    },
+    "Méga-Nanméouée": {
+        "Type 1": "Normal",
+        "Type 2": "Fée",
+        "HP": 103,
+        "Attack": 60,
+        "Defense": 63
+    },
+    "Charpenti": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 28
+    },
+    "Ouvrifier": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 43
+    },
+    "Bétochef": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 48
+    },
+    "Tritonde": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 20
+    },
+    "Batracné": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 75,
+        "Attack": 65,
+        "Defense": 28
+    },
+    "Crapustule": {
+        "Type 1": "Eau",
+        "Type 2": "Sol",
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 38
+    },
+    "Judokrak": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 120,
+        "Attack": 100,
+        "Defense": 43
+    },
+    "Karaclée": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 38
+    },
+    "Larveyette": {
+        "Type 1": "Insecte",
+        "Type 2": "Plante",
+        "HP": 45,
+        "Attack": 53,
+        "Defense": 35
+    },
+    "Couverdure": {
+        "Type 1": "Insecte",
+        "Type 2": "Plante",
+        "HP": 55,
+        "Attack": 63,
+        "Defense": 45
+    },
+    "Manternel": {
+        "Type 1": "Insecte",
+        "Type 2": "Plante",
+        "HP": 75,
+        "Attack": 103,
+        "Defense": 40
+    },
+    "Venipatte": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 30
+    },
+    "Scobolide": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 50
+    },
+    "Brutapode": {
+        "Type 1": "Insecte",
+        "Type 2": "Poison",
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 45
+    },
+    "Doudouvet": {
+        "Type 1": "Plante",
+        "Type 2": "Fée",
+        "HP": 40,
+        "Attack": 27,
+        "Defense": 30
+    },
+    "Farfaduvet": {
+        "Type 1": "Plante",
+        "Type 2": "Fée",
+        "HP": 60,
+        "Attack": 67,
+        "Defense": 43
+    },
+    "Chlorobule": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 25
+    },
+    "Fragilady": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 38
+    },
+    "Bargantua": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 92,
+        "Defense": 33
+    },
+    "Mascaéman": {
+        "Type 1": "Sol",
+        "Type 2": "Ténèbres",
+        "HP": 50,
+        "Attack": 72,
+        "Defense": 18
+    },
+    "Escroco": {
+        "Type 1": "Sol",
+        "Type 2": "Ténèbres",
+        "HP": 60,
+        "Attack": 82,
+        "Defense": 23
+    },
+    "Crocorible": {
+        "Type 1": "Sol",
+        "Type 2": "Ténèbres",
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 40
+    },
+    "Darumarond": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 23
+    },
+    "Darumacho (Mode Normal)": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 28
+    },
+    "Darumacho (Mode Daruma)": {
+        "Type 1": "Feu",
+        "Type 2": "Psy",
+        "HP": 105,
+        "Attack": 30,
+        "Defense": 53
+    },
+    "Maracachi": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 86,
+        "Defense": 34
+    },
+    "Crabicoque": {
+        "Type 1": "Insecte",
+        "Type 2": "Roche",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 43
+    },
+    "Crabaraque": {
+        "Type 1": "Insecte",
+        "Type 2": "Roche",
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 63
+    },
+    "Baggiguane": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Combat",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35
+    },
+    "Baggaéd": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Combat",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 58
+    },
+    "Cryptéro": {
+        "Type 1": "Psy",
+        "Type 2": "Vol",
+        "HP": 72,
+        "Attack": 58,
+        "Defense": 40
+    },
+    "Tutafeh": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 43
+    },
+    "Tutankafer": {
+        "Type 1": "Spectre",
+        "Type 2": "",
+        "HP": 58,
+        "Attack": 50,
+        "Defense": 73
+    },
+    "Carapagos": {
+        "Type 1": "Eau",
+        "Type 2": "Roche",
+        "HP": 54,
+        "Attack": 78,
+        "Defense": 52
+    },
+    "Mégapagos": {
+        "Type 1": "Eau",
+        "Type 2": "Roche",
+        "HP": 74,
+        "Attack": 108,
+        "Defense": 67
+    },
+    "Arkéapti": {
+        "Type 1": "Roche",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 112,
+        "Defense": 23
+    },
+    "Aéroptéryx": {
+        "Type 1": "Roche",
+        "Type 2": "Vol",
+        "HP": 75,
+        "Attack": 140,
+        "Defense": 33
+    },
+    "Miamiasme": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 31
+    },
+    "Miasmax": {
+        "Type 1": "Poison",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 41
+    },
+    "Zorua": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 20
+    },
+    "Zoroark": {
+        "Type 1": "Ténèbres",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 105,
+        "Defense": 30
+    },
+    "Chinchidou": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 20
+    },
+    "Pashmilla": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 30
+    },
+    "Scrutella": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 25
+    },
+    "Mesmérella": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 35
+    },
+    "Sidérella": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 48
+    },
+    "Nucléos": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 20
+    },
+    "Méios": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 25
+    },
+    "Symbios": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 38
+    },
+    "Couaneton": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 62,
+        "Attack": 44,
+        "Defense": 25
+    },
+    "Lakmécygne": {
+        "Type 1": "Eau",
+        "Type 2": "Vol",
+        "HP": 75,
+        "Attack": 87,
+        "Defense": 32
+    },
+    "Sorbébé": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 36,
+        "Attack": 50,
+        "Defense": 25
+    },
+    "Sorboul": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 51,
+        "Attack": 65,
+        "Defense": 33
+    },
+    "Sorbouboul": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 71,
+        "Attack": 95,
+        "Defense": 43
+    },
+    "Vivaldaim": {
+        "Type 1": "Normal",
+        "Type 2": "Plante",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 25
+    },
+    "Haydaim": {
+        "Type 1": "Normal",
+        "Type 2": "Plante",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 35
+    },
+    "Emolga": {
+        "Type 1": "Electrik",
+        "Type 2": "Vol",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 30
+    },
+    "Carabing": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 23
+    },
+    "Lançargot": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 53
+    },
+    "Trompignon": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 69,
+        "Attack": 55,
+        "Defense": 23
+    },
+    "Gaulet": {
+        "Type 1": "Plante",
+        "Type 2": "Poison",
+        "HP": 114,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Viskuse": {
+        "Type 1": "Eau",
+        "Type 2": "Spectre",
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 25
+    },
+    "Moyade": {
+        "Type 1": "Eau",
+        "Type 2": "Spectre",
+        "HP": 100,
+        "Attack": 60,
+        "Defense": 35
+    },
+    "Mamanbo": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 165,
+        "Attack": 75,
+        "Defense": 40
+    },
+    "Statitik": {
+        "Type 1": "Insecte",
+        "Type 2": "Electrik",
+        "HP": 50,
+        "Attack": 47,
+        "Defense": 25
+    },
+    "Mygavolt": {
+        "Type 1": "Insecte",
+        "Type 2": "Electrik",
+        "HP": 70,
+        "Attack": 77,
+        "Defense": 30
+    },
+    "Grindur": {
+        "Type 1": "Plante",
+        "Type 2": "Acier",
+        "HP": 44,
+        "Attack": 50,
+        "Defense": 46
+    },
+    "Noacier": {
+        "Type 1": "Plante",
+        "Type 2": "Acier",
+        "HP": 74,
+        "Attack": 94,
+        "Defense": 66
+    },
+    "Tic": {
+        "Type 1": "Acier",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 35
+    },
+    "Clic": {
+        "Type 1": "Acier",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 48
+    },
+    "Cliticlic": {
+        "Type 1": "Acier",
+        "Type 2": "",
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 58
+    },
+    "Anchwatt": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 20
+    },
+    "Lampéroie": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Ohmassacre": {
+        "Type 1": "Electrik",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 40
+    },
+    "Lewsor": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 28
+    },
+    "Neitram": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 38
+    },
+    "Funécire": {
+        "Type 1": "Spectre",
+        "Type 2": "Feu",
+        "HP": 50,
+        "Attack": 30,
+        "Defense": 28
+    },
+    "Mélancolux": {
+        "Type 1": "Spectre",
+        "Type 2": "Feu",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 30
+    },
+    "Lugulabre": {
+        "Type 1": "Spectre",
+        "Type 2": "Feu",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 45
+    },
+    "Coupenotte": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 46,
+        "Attack": 87,
+        "Defense": 30
+    },
+    "Incisache": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 66,
+        "Attack": 117,
+        "Defense": 35
+    },
+    "Tranchodon": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 76,
+        "Attack": 147,
+        "Defense": 45
+    },
+    "Polarhume": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 20
+    },
+    "Polagriffe": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 40
+    },
+    "Hexagel": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 70,
+        "Attack": 50,
+        "Defense": 15
+    },
+    "Escargaume": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 43
+    },
+    "Limaspeed": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 20
+    },
+    "Limonde": {
+        "Type 1": "Sol",
+        "Type 2": "Electrik",
+        "HP": 109,
+        "Attack": 66,
+        "Defense": 42
+    },
+    "Kungfouine": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 25
+    },
+    "Shaofouine": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 30
+    },
+    "Drakkarmin": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 77,
+        "Attack": 120,
+        "Defense": 45
+    },
+    "Gringolem": {
+        "Type 1": "Sol",
+        "Type 2": "Spectre",
+        "HP": 59,
+        "Attack": 74,
+        "Defense": 25
+    },
+    "Golemastoc": {
+        "Type 1": "Sol",
+        "Type 2": "Spectre",
+        "HP": 89,
+        "Attack": 124,
+        "Defense": 40
+    },
+    "Scalpion": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Acier",
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Scalproie": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Acier",
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 50
+    },
+    "Frison": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 48
+    },
+    "Furaiglon": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 70,
+        "Attack": 83,
+        "Defense": 25
+    },
+    "Gueriaigle": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 100,
+        "Attack": 123,
+        "Defense": 38
+    },
+    "Vostourno": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Vol",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 38
+    },
+    "VaututrGlace": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Vol",
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 53
+    },
+    "Aflamanoir": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 85,
+        "Attack": 97,
+        "Defense": 33
+    },
+    "Fermite": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 58,
+        "Attack": 109,
+        "Defense": 56
+    },
+    "Solochi": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Dragon",
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 25
+    },
+    "Diamat": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Dragon",
+        "HP": 72,
+        "Attack": 85,
+        "Defense": 35
+    },
+    "Trioxhydre": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Dragon",
+        "HP": 92,
+        "Attack": 105,
+        "Defense": 45
+    },
+    "Pyronille": {
+        "Type 1": "Insecte",
+        "Type 2": "Feu",
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 28
+    },
+    "Pyrax": {
+        "Type 1": "Insecte",
+        "Type 2": "Feu",
+        "HP": 85,
+        "Attack": 60,
+        "Defense": 33
+    },
+    "Cobaltium": {
+        "Type 1": "Acier",
+        "Type 2": "Combat",
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 65
+    },
+    "Terrakium": {
+        "Type 1": "Roche",
+        "Type 2": "Combat",
+        "HP": 91,
+        "Attack": 129,
+        "Defense": 45
+    },
+    "Viridium": {
+        "Type 1": "Plante",
+        "Type 2": "Combat",
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 36
+    },
+    "Boréas (Forme Avatar)": {
+        "Type 1": "Vol",
+        "Type 2": "",
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 35
+    },
+    "Boréas (Forme Totémique)": {
+        "Type 1": "Vol",
+        "Type 2": "",
+        "HP": 79,
+        "Attack": 100,
+        "Defense": 40
+    },
+    "Fulguris (Forme Avatar)": {
+        "Type 1": "Electrik",
+        "Type 2": "Vol",
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 35
+    },
+    "Fulguris (Forme Totémique)": {
+        "Type 1": "Electrik",
+        "Type 2": "Vol",
+        "HP": 79,
+        "Attack": 105,
+        "Defense": 35
+    },
+    "Reshiram": {
+        "Type 1": "Dragon",
+        "Type 2": "Feu",
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 50
+    },
+    "Zekrom": {
+        "Type 1": "Dragon",
+        "Type 2": "Electrik",
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 60
+    },
+    "Démétéros (Forme Avatar)": {
+        "Type 1": "Sol",
+        "Type 2": "Vol",
+        "HP": 89,
+        "Attack": 125,
+        "Defense": 45
+    },
+    "Démétéros (Forme Totémique)": {
+        "Type 1": "Sol",
+        "Type 2": "Vol",
+        "HP": 89,
+        "Attack": 145,
+        "Defense": 45
+    },
+    "Kyurem": {
+        "Type 1": "Dragon",
+        "Type 2": "Glace",
+        "HP": 125,
+        "Attack": 130,
+        "Defense": 45
+    },
+    "Kyurem Noir": {
+        "Type 1": "Dragon",
+        "Type 2": "Glace",
+        "HP": 125,
+        "Attack": 170,
+        "Defense": 50
+    },
+    "Kyurem Blanc": {
+        "Type 1": "Dragon",
+        "Type 2": "Glace",
+        "HP": 125,
+        "Attack": 120,
+        "Defense": 45
+    },
+    "Keldeo": {
+        "Type 1": "Eau",
+        "Type 2": "Combat",
+        "HP": 91,
+        "Attack": 72,
+        "Defense": 45
+    },
+    "Meloetta (Forme Voix)": {
+        "Type 1": "Normal",
+        "Type 2": "Psy",
+        "HP": 100,
+        "Attack": 77,
+        "Defense": 39
+    },
+    "Meloetta (Forme Danse)": {
+        "Type 1": "Normal",
+        "Type 2": "Combat",
+        "HP": 100,
+        "Attack": 128,
+        "Defense": 45
+    },
+    "Genesect": {
+        "Type 1": "Insecte",
+        "Type 2": "Acier",
+        "HP": 71,
+        "Attack": 120,
+        "Defense": 48
+    },
+    "Marisson": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 56,
+        "Attack": 61,
+        "Defense": 33
+    },
+    "Boguérisse": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 61,
+        "Attack": 78,
+        "Defense": 48
+    },
+    "Blindépique": {
+        "Type 1": "Plante",
+        "Type 2": "Combat",
+        "HP": 88,
+        "Attack": 107,
+        "Defense": 61
+    },
+    "Feunnec": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 20
+    },
+    "Roussil": {
+        "Type 1": "Feu",
+        "Type 2": "",
+        "HP": 59,
+        "Attack": 59,
+        "Defense": 29
+    },
+    "Goupelin": {
+        "Type 1": "Feu",
+        "Type 2": "Psy",
+        "HP": 75,
+        "Attack": 69,
+        "Defense": 36
+    },
+    "Grenousse": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 41,
+        "Attack": 56,
+        "Defense": 20
+    },
+    "Croâporal": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 54,
+        "Attack": 63,
+        "Defense": 26
+    },
+    "Amphinobi": {
+        "Type 1": "Eau",
+        "Type 2": "Ténèbres",
+        "HP": 72,
+        "Attack": 95,
+        "Defense": 34
+    },
+    "Sapereau": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 38,
+        "Attack": 36,
+        "Defense": 19
+    },
+    "Excavarenne": {
+        "Type 1": "Normal",
+        "Type 2": "Sol",
+        "HP": 85,
+        "Attack": 56,
+        "Defense": 39
+    },
+    "Passerouge": {
+        "Type 1": "Normal",
+        "Type 2": "Vol",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 22
+    },
+    "Braisillon": {
+        "Type 1": "Feu",
+        "Type 2": "Vol",
+        "HP": 62,
+        "Attack": 73,
+        "Defense": 28
+    },
+    "Flambusard": {
+        "Type 1": "Feu",
+        "Type 2": "Vol",
+        "HP": 78,
+        "Attack": 81,
+        "Defense": 36
+    },
+    "Lépidonille": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 20
+    },
+    "Pérégrain": {
+        "Type 1": "Insecte",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 22,
+        "Defense": 30
+    },
+    "Prismillon": {
+        "Type 1": "Insecte",
+        "Type 2": "Vol",
+        "HP": 80,
+        "Attack": 52,
+        "Defense": 25
+    },
+    "Hélionceau": {
+        "Type 1": "Feu",
+        "Type 2": "Normal",
+        "HP": 62,
+        "Attack": 50,
+        "Defense": 29
+    },
+    "Némélios": {
+        "Type 1": "Feu",
+        "Type 2": "Normal",
+        "HP": 86,
+        "Attack": 68,
+        "Defense": 36
+    },
+    "Flabébé": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 20
+    },
+    "Floette": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 54,
+        "Attack": 45,
+        "Defense": 24
+    },
+    "Florges": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 78,
+        "Attack": 65,
+        "Defense": 34
+    },
+    "Cabriolaine": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 66,
+        "Attack": 65,
+        "Defense": 24
+    },
+    "Chevroum": {
+        "Type 1": "Plante",
+        "Type 2": "",
+        "HP": 123,
+        "Attack": 100,
+        "Defense": 31
+    },
+    "Pandespiégle": {
+        "Type 1": "Combat",
+        "Type 2": "",
+        "HP": 67,
+        "Attack": 82,
+        "Defense": 31
+    },
+    "Pandarbare": {
+        "Type 1": "Combat",
+        "Type 2": "Ténèbres",
+        "HP": 95,
+        "Attack": 124,
+        "Defense": 39
+    },
+    "Couafarel": {
+        "Type 1": "Normal",
+        "Type 2": "",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 30
+    },
+    "Psystigri": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 27
+    },
+    "Mistigrix": {
+        "Type 1": "Psy",
+        "Type 2": "",
+        "HP": 74,
+        "Attack": 48,
+        "Defense": 38
+    },
+    "Monorpale": {
+        "Type 1": "Acier",
+        "Type 2": "Spectre",
+        "HP": 45,
+        "Attack": 80,
+        "Defense": 50
+    },
+    "Dimoclés": {
+        "Type 1": "Acier",
+        "Type 2": "Spectre",
+        "HP": 59,
+        "Attack": 110,
+        "Defense": 75
+    },
+    "Exagide (Forme Assaut)": {
+        "Type 1": "Acier",
+        "Type 2": "Spectre",
+        "HP": 60,
+        "Attack": 150,
+        "Defense": 25
+    },
+    "Exagide (Forme Parade)": {
+        "Type 1": "Acier",
+        "Type 2": "Spectre",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 75
+    },
+    "Fluvetin": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 78,
+        "Attack": 52,
+        "Defense": 30
+    },
+    "Cocotine": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 101,
+        "Attack": 72,
+        "Defense": 36
+    },
+    "Sucroquin": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 33
+    },
+    "Cupcanaille": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 82,
+        "Attack": 80,
+        "Defense": 43
+    },
+    "Sepiatop": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Psy",
+        "HP": 53,
+        "Attack": 54,
+        "Defense": 27
+    },
+    "Sepiatroce": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Psy",
+        "HP": 86,
+        "Attack": 92,
+        "Defense": 44
+    },
+    "Opermine": {
+        "Type 1": "Roche",
+        "Type 2": "Eau",
+        "HP": 42,
+        "Attack": 52,
+        "Defense": 34
+    },
+    "Golgopathe": {
+        "Type 1": "Roche",
+        "Type 2": "Eau",
+        "HP": 72,
+        "Attack": 105,
+        "Defense": 58
+    },
+    "Venalgue": {
+        "Type 1": "Poison",
+        "Type 2": "Eau",
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 30
+    },
+    "Kravarech": {
+        "Type 1": "Poison",
+        "Type 2": "Dragon",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 45
+    },
+    "Flingouste": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 31
+    },
+    "Gamblast": {
+        "Type 1": "Eau",
+        "Type 2": "",
+        "HP": 71,
+        "Attack": 73,
+        "Defense": 44
+    },
+    "Galvaran": {
+        "Type 1": "Electrik",
+        "Type 2": "Normal",
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 17
+    },
+    "Iguolta": {
+        "Type 1": "Electrik",
+        "Type 2": "Normal",
+        "HP": 62,
+        "Attack": 55,
+        "Defense": 26
+    },
+    "Ptyranidur": {
+        "Type 1": "Roche",
+        "Type 2": "Dragon",
+        "HP": 58,
+        "Attack": 89,
+        "Defense": 39
+    },
+    "Rexillius": {
+        "Type 1": "Roche",
+        "Type 2": "Dragon",
+        "HP": 82,
+        "Attack": 121,
+        "Defense": 60
+    },
+    "Amagara": {
+        "Type 1": "Roche",
+        "Type 2": "Glace",
+        "HP": 77,
+        "Attack": 59,
+        "Defense": 25
+    },
+    "Dragmara": {
+        "Type 1": "Roche",
+        "Type 2": "Glace",
+        "HP": 123,
+        "Attack": 77,
+        "Defense": 36
+    },
+    "Nymphali": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 33
+    },
+    "Brutalibré": {
+        "Type 1": "Combat",
+        "Type 2": "Vol",
+        "HP": 78,
+        "Attack": 92,
+        "Defense": 38
+    },
+    "Dedenne": {
+        "Type 1": "Electrik",
+        "Type 2": "Fée",
+        "HP": 67,
+        "Attack": 58,
+        "Defense": 29
+    },
+    "Strassie": {
+        "Type 1": "Roche",
+        "Type 2": "Fée",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 75
+    },
+    "Mucuscule": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 18
+    },
+    "Colimucus": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 68,
+        "Attack": 75,
+        "Defense": 27
+    },
+    "Muplodocus": {
+        "Type 1": "Dragon",
+        "Type 2": "",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 35
+    },
+    "Trousselin": {
+        "Type 1": "Acier",
+        "Type 2": "Fée",
+        "HP": 57,
+        "Attack": 80,
+        "Defense": 46
+    },
+    "Brocéléme": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 43,
+        "Attack": 70,
+        "Defense": 24
+    },
+    "Desséliande": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 85,
+        "Attack": 110,
+        "Defense": 38
+    },
+    "Pitrouille (Taille Mini)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 49,
+        "Attack": 66,
+        "Defense": 35
+    },
+    "Pitrouille (Taille Normale)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 44,
+        "Attack": 66,
+        "Defense": 35
+    },
+    "Pitrouille (Taille Maxi)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 54,
+        "Attack": 66,
+        "Defense": 35
+    },
+    "Pitrouille (Taille Ultra)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 59,
+        "Attack": 66,
+        "Defense": 35
+    },
+    "Banshitrouye (Taille Mini)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 61
+    },
+    "Banshitrouye (Taille Normale)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 61
+    },
+    "Banshitrouye (Taille Maxi)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 61
+    },
+    "Banshitrouye (Taille Ultra)": {
+        "Type 1": "Spectre",
+        "Type 2": "Plante",
+        "HP": 85,
+        "Attack": 100,
+        "Defense": 61
+    },
+    "Grelaçon": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 55,
+        "Attack": 69,
+        "Defense": 43
+    },
+    "Séracrawl": {
+        "Type 1": "Glace",
+        "Type 2": "",
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 92
+    },
+    "Sonistrelle": {
+        "Type 1": "Vol",
+        "Type 2": "Dragon",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 18
+    },
+    "Bruyverne": {
+        "Type 1": "Vol",
+        "Type 2": "Dragon",
+        "HP": 85,
+        "Attack": 70,
+        "Defense": 40
+    },
+    "Xerneas": {
+        "Type 1": "Fée",
+        "Type 2": "",
+        "HP": 126,
+        "Attack": 131,
+        "Defense": 48
+    },
+    "Yveltal": {
+        "Type 1": "Ténèbres",
+        "Type 2": "Vol",
+        "HP": 126,
+        "Attack": 131,
+        "Defense": 48
+    },
+    "Zygarde (Forme 50%)": {
+        "Type 1": "Dragon",
+        "Type 2": "Sol",
+        "HP": 108,
+        "Attack": 100,
+        "Defense": 61
+    },
+    "Diancie": {
+        "Type 1": "Roche",
+        "Type 2": "Fée",
+        "HP": 50,
+        "Attack": 100,
+        "Defense": 75
+    },
+    "Méga-Diancie": {
+        "Type 1": "Roche",
+        "Type 2": "Fée",
+        "HP": 50,
+        "Attack": 160,
+        "Defense": 55
+    },
+    "Hoopa (Forme Enchaénée)": {
+        "Type 1": "Psy",
+        "Type 2": "Spectre",
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 30
+    },
+    "Hoopa (Forme Déchaénée)": {
+        "Type 1": "Psy",
+        "Type 2": "Ténèbres",
+        "HP": 80,
+        "Attack": 160,
+        "Defense": 30
+    },
+    "Volcanion": {
+        "Type 1": "Feu",
+        "Type 2": "Eau",
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 60
+    }
+}

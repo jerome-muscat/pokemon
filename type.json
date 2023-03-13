@@ -1,0 +1,355 @@
+{
+    "Acier" : {
+        "Efficace": {
+            "Acier" : 0.5,
+            "Combat" : 2,
+            "Dragon" : 0.5,
+            "Fée" :  0.5,
+            "Feu" : 2,
+            "Glace" : 0.5,
+            "Insecte" : 0.5,
+            "Normal" : 0.5,
+            "Plante" : 0.5,
+            "Poison" : 0,
+            "Psy" : 0.5,
+            "Roche" : 0.5,
+            "Sol" : 2,
+            "Vol" : 0.5
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Eau" : 0.5,
+            "Electrik" : 0.5,
+            "Fée" :  2,
+            "Feu" : 0.5,
+            "Glace" : 2,
+            "Roche" : 2
+        }
+    },
+    "Combat" : {
+        "Efficace": {
+            "Fée" :  2,
+            "Insecte" : 0.5,
+            "Psy" : 2,
+            "Roche" : 0.5,
+            "Ténèbres" : 0.5,
+            "Vol" : 2
+        },
+        "Résistance": {
+            "Acier" : 2,
+            "Fée" :  0.5,
+            "Glace" : 2,
+            "Insecte" : 0.5,
+            "Normal" : 2,
+            "Poison": 0.5,
+            "Psy": 0.5,
+            "Roche" : 2,
+            "Spectre" : 0,
+            "Ténèbres" : 2,
+            "Vol" : 0.5
+        }
+    },
+    "Dragon" : {
+        "Efficace": {
+            "Dragon" : 2,
+            "Eau" : 0.5,
+            "Electrik": 0.5,
+            "Fée" :  2,
+            "Feu" : 0.5,
+            "Glace" : 2,
+            "Plante" : 0.5
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Dragon": 2,
+            "Fée" :  0
+        }
+    },
+    "Eau" : {
+        "Efficace": {
+            "Acier" : 0.5,
+            "Eau" : 0.5,
+            "Electrik" : 2,
+            "Feu" : 0.5,
+            "Glace" : 0.5,
+            "Plante" : 2
+        },
+        "Résistance": {
+            "Dragon" : 0.5,
+            "Eau" : 0.5,
+            "Feu" : 2,
+            "Plante" : 0.5,
+            "Roche" : 2,
+            "Sol" : 2
+        }
+    },
+    "Electrik" : {
+        "Efficace": {
+            "Acier" : 0.5,
+            "Electrik" : 0.5,
+            "Sol" : 2,
+            "Vol" : 0.5
+        },
+        "Résistance": {
+            "Dragon" : 0.5,
+            "Eau" : 2,
+            "Electrik" : 0.5,
+            "Plante" : 0.5,
+            "Sol" : 0,
+            "Vol" : 2
+        }
+    },
+    "Fée" :{
+        "Efficace": {
+            "Acier" : 2,
+            "Combat" : 0.5,
+            "Dragon" : 0,
+            "Insecte" : 0.5,
+            "Poison" : 2,
+            "Ténèbres" : 0.5
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Combat" : 2,
+            "Dragon" : 2,
+            "Feu" : 0.5,
+            "Poison" : 0.5,
+            "Ténèbres" : 2
+        }
+    },
+    "Feu" : {
+        "Efficace": {
+            "Acier" : 0.5,
+            "Eau" : 2,
+            "Fée" :  0.5,
+            "Feu" : 0.5,
+            "Glace" : 0.5,
+            "Insecte" : 0.5,
+            "Plante" : 0.5,
+            "Roche" : 2,
+            "Sol" : 2 
+        },
+        "Résistance": {
+            "Acier" : 2,
+            "Dragon" : 0.5,
+            "Eau" : 0.5,
+            "Feu" : 0.5,
+            "Glace" : 2,
+            "Insecte" : 2,
+            "Plante" : 2,
+            "Roche" : 0.5
+        }
+    },
+    "Glace" : {
+        "Efficace": {
+            "Acier" : 2,
+            "Combat" : 2,
+            "Feu" : 2,
+            "Glace" : 0.5,
+            "Roche" : 2
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Dragon" : 2,
+            "Eau" : 0.5,
+            "Feu" : 0.5,
+            "Glace" : 0.5,
+            "Plante" : 2,
+            "Sol" : 2,
+            "Vol" : 2
+        }
+    },
+    "Insecte" : {
+        "Efficace": {
+            "Combat" : 0.5,
+            "Feu" : 2,
+            "Plante" : 0.5,
+            "Roche" : 2,
+            "Sol" : 0.5,
+            "Vol" : 2
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Combat" : 0.5,
+            "Fée" : 0.5,
+            "Feu" : 0.5,
+            "Plante" : 2,
+            "Poison" : 0.5,
+            "Psy" : 2,
+            "Spectre" : 0,
+            "Ténèbres" : 2,
+            "Vol" : 0.5
+        }
+    },
+    "Normal" : {
+        "Efficace": {
+            "Combat" : 2,
+            "Spectre" : 0
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Eau" : 0.5,
+            "Electrik" : 0.5,
+            "Fée" : 2,
+            "Feu" : 0.5,
+            "Glace" : 2,
+            "Roche" : 0.5,
+            "Spectre" : 0
+        }
+    },
+    "Plante" : {
+        "Efficace": {
+            "Eau" : 0.5,
+            "Electrik" : 0.5,
+            "Feu" : 2,
+            "Glace" : 2,
+            "Insecte" : 2,
+            "Plante" : 0.5,
+            "Poison" : 2,
+            "Sol" : 0.5,
+            "Vol" : 2
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Dragon" : 0.5,
+            "Eau" : 2,
+            "Feu" : 0.5,
+            "Insecte" : 0.5,
+            "Plante" : 0.5,
+            "Poison" : 0.5,
+            "Roche" : 2,
+            "Sol" : 2,
+            "Vol" : 0.5
+        }
+    },
+    "Poison" : {
+        "Efficace": {
+            "Combat" : 0.5,
+            "Fée" :  0.5,
+            "Insecte" : 0.5,
+            "Plante" : 0.5,
+            "Poison" : 0.5,
+            "Psy" : 2,
+            "Sol" : 2
+        },
+        "Résistance": {
+            "Acier" : 0,
+            "Fée" :  2,
+            "Plante" : 2,
+            "Poison" : 0.5,
+            "Roche" : 0.5,
+            "Sol" : 0.5,
+            "Spectre" : 0.5
+        }
+    },
+    "Psy" : {
+        "Efficace": {
+            "Combat" : 0.5,
+            "Insecte" : 2,
+            "Psy" : 0.5,
+            "Spectre" : 2,
+            "Ténèbres" : 2
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Combat" : 2,
+            "Poison" :  2,
+            "Psy" : 0.5,
+            "Ténèbres" : 2
+        }
+    },
+    "Roche" : {
+        "Efficace": {
+            "Acier" : 2,
+            "Combat" : 2,
+            "Eau" : 2,
+            "Feu" : 0.5,
+            "Normal" : 0.5,
+            "Plante" : 2,
+            "Poison" : 0.5,
+            "Sol" : 2,
+            "Vol" : 0.5
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Combat" : 0.5,
+            "Feu" : 2,
+            "Glace" : 2,
+            "Insecte" : 2,
+            "Roche" : 0.5,
+            "Vol" : 2
+        }
+    },
+    "Sol" : {
+        "Efficace": {
+            "Eau" : 2,
+            "Electrik" : 0,
+            "Glace" : 2,
+            "Plante" : 2,
+            "Poison" : 0.5,
+            "Roche" : 0.5
+        },
+        "Résistance": {
+            "Acier" : 2,
+            "Electrik" : 2,
+            "Fée" :  2,
+            "Insecte" : 0.5,
+            "Plante" : 0.5,
+            "Poison" : 2,
+            "Roche" : 2,
+            "Vol" : 0
+        }
+    },
+    "Spectre" : {
+        "Efficace": {
+            "Combat" : 0,
+            "Insecte" : 0.5,
+            "Normal" : 0,
+            "Poison" : 0.5,
+            "Spectre" : 2,
+            "Ténèbres" : 2
+        },
+        "Résistance": {
+            "Normal" : 0,
+            "Psy" : 2,
+            "Spectre" : 2,
+            "Ténèbres" : 0.5
+        }
+    },
+    "Ténèbres" : {
+        "Efficace": {
+            "Combat" : 2,
+            "Fée" :  2,
+            "Insecte" : 2,
+            "Psy" : 0,
+            "Spectre" : 0.5,
+            "Ténèbres" : 0.5
+        },
+        "Résistance": {
+            "Combat" : 0.5,
+            "Fée" : 0.5,
+            "Poison" :  2,
+            "Spectre" : 2,
+            "Ténèbres" : 0.5
+        }
+    },
+    "Vol" : {
+        "Efficace": {
+            "Combat" : 0.5,
+            "Electrik" : 2,
+            "Glace" : 2,
+            "Insecte" : 0.5,
+            "Plante" : 0.5,
+            "Roche" : 2,
+            "Sol" : 0
+        },
+        "Résistance": {
+            "Acier" : 0.5,
+            "Combat" : 2,
+            "Electrik" : 0.5,
+            "Insecte" :  2,
+            "Plante" :  2,
+            "Psy" : 0.5
+        }
+    }
+}
